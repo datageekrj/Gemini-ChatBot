@@ -120,5 +120,3 @@ Feel free to open issues and submit pull requests if you'd like to contribute to
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-This updated **README** now includes details about the Gemini API integration, making it more comprehensive and ready for showcasing in your GitHub portfolio.
