@@ -2,6 +2,8 @@
 
 This project is a professional chatbot interface built as part of my portfolio to demonstrate my skills in **natural language processing (NLP)**, **frontend/backend development**, and **AI-driven chatbots**. The chatbot mimics the look and feel of popular AI conversational interfaces like ChatGPT and includes several features such as syntax highlighting, Markdown parsing, auto-resizing input fields, and integration with the **Gemini API** for generating intelligent responses and maintaining conversation context.
 
+Here is the YouTube Video Demo for the ChatBOT: https://www.youtube.com/watch?v=587YVIePVmI 
+
 ## Features
 
 ### 1. **Gemini-Like Interface**
