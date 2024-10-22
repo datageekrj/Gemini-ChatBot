@@ -73,11 +73,8 @@ pip install Flask
 ```
 
 ### 4. Set Up Gemini API
-- Obtain your Gemini API key from the [Gemini API portal](https://geminiapi.example.com).
-- Add your API key to your environment by creating a `.env` file and adding:
-  ```env
-  GEMINI_API_KEY=your_gemini_api_key
-  ```
+- Obtain your Gemini API key from their Portal. 
+- Edit the api_key.json file and enter your gemini API key. 
 
 ### 5. Run the Flask App
 Start the Flask development server:
